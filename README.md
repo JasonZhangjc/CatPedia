@@ -1,6 +1,6 @@
 # CatPedia
-A CatPedia Web Application with Angular Frontend, Springboot Backend, and MySQL database.
+A CatPedia Web Application with Angular Frontend, Spring Boot Backend, and MySQL database.
 
-- Frontend: Angular + Typescript
-- Backend: Springboot + Java
+- Frontend: Angular + TypesScript
+- Backend: Spring Boot + Java + Maven
 - Database: MySQL
